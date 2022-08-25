@@ -1,0 +1,45 @@
+{
+    "name" : 
+    {
+        "id" : "Lin",
+        "en-us" : "Line"
+    }
+    , 
+    "data" : 
+    [
+        {
+            "name" : {
+                "id" : "KRL Komuter Lin Tangerang" , 
+                "en-us" : "Commuter Rail Tangerang Line"
+            },
+            "routes" : {
+                "from" : {
+                    "name" : "Tangerang" , 
+                    "code" : "C1"
+                } , 
+                "to" : {
+                    "name" : "Duri",
+                    "code" : "B3"
+                }
+            }
+        },
+        {
+            "name" : {
+                "id" : "KRL Komuter Lin Cikarang" , 
+                "en-us" : "Commuter Rail Cikarang Line"
+            },
+            "routes" : {
+                "from" : {
+                    "name" : "Cikarang / Bekasi" , 
+                    "code" : "D8"
+                } , 
+                "to" : {
+                    "name" : "Jakarta Kota",
+                    "code" : "B4"
+                }
+            }
+        }
+    ]
+
+
+}
